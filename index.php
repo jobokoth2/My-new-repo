@@ -10,7 +10,8 @@
 
  <BODY>
   <?
-  print "Hello World 2";
+  //Welcome the user
+  echo "Hello World 2";
   ?>
  </BODY>
 </HTML>
