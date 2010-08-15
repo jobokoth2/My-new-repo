@@ -10,7 +10,7 @@
 
  <BODY>
   <?
-  print "Hello World";
+  print "Hello World 2";
   ?>
  </BODY>
 </HTML>
